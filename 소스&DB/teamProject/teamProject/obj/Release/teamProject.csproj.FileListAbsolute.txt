@@ -1,0 +1,16 @@
+C:\cSharp\teamProject\teamProject\teamProject\bin\Release\teamProject.exe.config
+C:\cSharp\teamProject\teamProject\teamProject\bin\Release\teamProject.exe
+C:\cSharp\teamProject\teamProject\teamProject\bin\Release\teamProject.pdb
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.csproj.AssemblyReference.cache
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.Form0.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.Form1.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.Form2.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.Form3.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.Form4.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.Form5.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.Form7.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.Properties.Resources.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.csproj.GenerateResource.cache
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.csproj.CoreCompileInputs.cache
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.exe
+C:\cSharp\teamProject\teamProject\teamProject\obj\Release\teamProject.pdb

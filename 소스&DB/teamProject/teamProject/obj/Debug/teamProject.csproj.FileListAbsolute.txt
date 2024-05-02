@@ -1,0 +1,16 @@
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.csproj.AssemblyReference.cache
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.Form1.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.Properties.Resources.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.csproj.GenerateResource.cache
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.csproj.CoreCompileInputs.cache
+C:\cSharp\teamProject\teamProject\teamProject\bin\Debug\teamProject.exe.config
+C:\cSharp\teamProject\teamProject\teamProject\bin\Debug\teamProject.exe
+C:\cSharp\teamProject\teamProject\teamProject\bin\Debug\teamProject.pdb
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.exe
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.pdb
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.Form2.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.Form3.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.Form4.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.Form5.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.Form0.resources
+C:\cSharp\teamProject\teamProject\teamProject\obj\Debug\teamProject.Form7.resources
